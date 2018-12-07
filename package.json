@@ -1,0 +1,36 @@
+{
+  "name": "amp-html",
+  "version": "1.0.0",
+  "description": "Full site AMP Pages validator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaletskyi/amp-html.git"
+  },
+  "keywords": [
+    "amp",
+    "html",
+    "amphtml-validator",
+    "AMP",
+    "validator",
+    "validate",
+    "AMP HTML",
+    "Accelerated Mobile Pages",
+    "Google AMP"
+  ],
+  "author": "zaletskyi",
+  "license": "MIT",
+  "dependencies": {
+    "amphtml-validator": "^1.0.23",
+    "async-functions-pool": "^1.0.0",
+    "node-fetch": "^2.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/zaletskyi/amp-html/issues"
+  },
+  "homepage": "https://github.com/zaletskyi/amp-html#readme"
+}
