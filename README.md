@@ -1,4 +1,6 @@
 
+[![NPM](https://nodei.co/npm/amp-html.png)](https://nodei.co/npm/amp-html)
+
 # amp-html
 ### Full site AMP validator
 
